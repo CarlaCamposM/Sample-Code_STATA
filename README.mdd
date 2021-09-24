@@ -1,4 +1,5 @@
 # Sample-Code_STATA
 # This is a sample code from my research work at Pennsylvania State University
-# Sample Code 1: Cross-Tabulation, Confidence Intervals, t-test
-# Sample Code 2: Weights and handling complex survey data
+# Sample Code 1: Examining data, Missing data, Data visually, Sumarizing data, new variables, dummy variables, and labeling data
+# Sample Code 2: Cross-Tabulation, Confidence Intervals, t-test
+# Sample Code 3: Weights and handling complex survey data
