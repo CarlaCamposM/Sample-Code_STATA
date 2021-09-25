@@ -6,7 +6,7 @@ Reseach GSS 03/16/21
 cd "C:\Users\carla\Desktop\Research SIA"
 
 *Load dataset:
-use "gss2008.dta"
+use "gss.dta"
 
 *Examining data:
 browse
